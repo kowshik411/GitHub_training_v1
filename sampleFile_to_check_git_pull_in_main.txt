@@ -1,1 +1,2 @@
 This is sample file to test git pull in main branch after commiting this at first in newBranch
+This line is to check whether if we edit a file and then can it be pused directlt to remote repo.

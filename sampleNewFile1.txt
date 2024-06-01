@@ -1,2 +1,1 @@
 This is a sample text in sampleNewFile1
-Git revert change 2.

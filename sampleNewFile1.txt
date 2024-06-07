@@ -1,2 +1,3 @@
 This is a sample text in sampleNewFile1
 This line is for comparison test
+This is stash example, change in file 2
